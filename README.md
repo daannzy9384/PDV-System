@@ -1,4 +1,4 @@
-(PDV) POS System
+POS System
 
 This project is a Point of Sale (POS) system designed to simulate the checkout process of a supermarket or retail store. The goal of the project is to build a functional system capable of managing products, handling purchases, and processing transactions in a simple and efficient way.
 
