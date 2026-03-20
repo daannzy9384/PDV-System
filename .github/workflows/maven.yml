@@ -22,5 +22,5 @@ jobs:
 
     - name: Build with Maven
       run: mvn -B package --file pom.xml
-      working-directory: Back
+      working-directory: backend
       
